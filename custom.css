@@ -1,0 +1,75 @@
+/* All your custom styles go here. You can override the default Bootstrap styles or add your own custom styles for elements, classes, or IDs.  */
+head,
+body {
+    font-family: 'Rokkitt', serif;
+
+}
+
+.site-title {
+    font-size: 2.5em;
+    background-color: lightgray;
+}
+
+.container {
+    margin: 0px;
+    padding: 20px;
+    padding-top: 5px;
+    max-width: none;
+    font-family: 'Rokkitt', serif;
+
+}
+
+.card-deck {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.search {
+    background-color: lightgray;
+    padding-top: 40px;
+    padding-right: 10px;
+}
+
+.card-body {
+    background-color: lightpink;
+}
+
+.card-deck .card {
+    margin: 0px;
+    background-color: lightpink;
+}
+
+.navbar-nav {
+    background-color: ghostwhite;
+}
+
+.navbar {
+    margin: 0px;
+    padding: 0px;
+}
+
+.follow-up {
+    background-color: gray;
+    width: 9000px;
+    padding: 10px;
+}
+
+.row {
+    background-color: lightgray;
+}
+
+.row .lightgrey {
+    background-color: ghostwhite;
+    padding-left: 10px;
+    padding-right: 80%;
+    margin: 10px;
+}
+
+.btn:hover {
+    background-color: orange;
+
+}
+
+.btn {
+    background-color: pink;
+}
